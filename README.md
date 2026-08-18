@@ -7,4 +7,4 @@
 - Github Username: ElFriede143
 
 ##Laboratory Activities
--Lab 1: Environment Onboarding
+- Lab 1: Environment Onboarding
