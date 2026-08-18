@@ -2,7 +2,7 @@
 
 ## Student Information
 - Name: John Benedict Z. Bengcolita
-- Course: BSCSAI 2A
+- Course: CS-FUNDAI
 - Section: 09282-FUNDAI
 - Github Username: ElFriede143
 
