@@ -6,6 +6,5 @@
 - Section: 09282-FUNDAI
 - Github Username: ElFriede143
 
-
 ##Laboratory Activities
 -Lab 1: Environment Onboarding
